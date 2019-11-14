@@ -1,0 +1,5 @@
+.vs/
+.tmp/
+bin/
+obj/
+artifacts
